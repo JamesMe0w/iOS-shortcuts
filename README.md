@@ -1,2 +1,3 @@
 # iOS-shortcuts
-Custom shortcuts for iOS
+Custom shortcuts for iOS.
+#
